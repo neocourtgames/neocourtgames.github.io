@@ -8,11 +8,11 @@ NEOCOURT GAMES 🎮
 
 👾 ¡Unite a nuestra comunidad y no te pierdas nada! 👾
 
-<a href="https://itch.io" target="_blank"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://neocourt-games.itch.io/neocourt-manager" target="_blank"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 
-<a href="https://tiktok.com" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<a href="https://www.tiktok.com/@teamminiinfluencer145?_r=1&_t=ZS-971TLoY0mub" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 
-<a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://youtube.com/@neocourtgames?si=Jd7gTXoxgz3r0HZA" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 ### 🚀 ESTADO DE LOS PROYECTOS
 
@@ -28,10 +28,11 @@ Bienvenidos a **NeoCourt Games**, el estudio independiente de desarrollo de vide
 
 <div align="center">
   <!-- BOTÓN DE ITCH.IO FINAL -->
-  <a href="https://itch.io" target="_blank">
+  <a href="https://neocourt-games.itch.io/neocourt-manager" target="_blank">
     <img src="https://img.shields.io/badge/DESCARGAR_EN_ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Descargar en Itch.io">
   </a>
 </div>
+
 
 
 * 📊 **Gestión Total:** Controlá las estadísticas de tu equipo y llevalos a la gloria.

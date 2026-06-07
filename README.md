@@ -1,23 +1,38 @@
 # neocourtgames.github.io
-​Sitio web oficial de NeoCourt Games
-🎮 NEOCOURT GAMES 🎮
+Sitio web oficial de NeoCourt Games 🎮
+NEOCOURT GAMES 🎮
 
 ¡Bienvenidos a la página oficial de nuestro estudio de videojuegos! 🚀
 
 🔥 Muy pronto vas a poder jugar a nuestros lanzamientos de simulación deportiva y ciberpunk. 🔥
 
 👾 ¡Unite a nuestra comunidad y no te pierdas nada! 👾
-<a href="https://neocourt-games.itch.io/neocourt-manager"><img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"></a>
 
-<a href="https://www.tiktok.com/@teamminiinfluencer145?_r=1&_t=ZS-971TLoY0mub"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"></a>
+<a href="https://itch.io" target="_blank"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
 
-<a href="https://youtube.com/@neocourtgames?si=Jd7gTXoxgz3r0HZA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://tiktok.com" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+
+<a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+
 ### 🚀 ESTADO DE LOS PROYECTOS
 
 | 🎮 JUEGO | 💻 PLATAFORMA | 📌 ESTADO | 📈 PROGRESO |
 | :--- | :--- | :--- | :--- |
 | **NeoCourt Manager** | 📱 Móvil / 💻 PC | ¡100% Disponible con Updates! | 🟩🟩🟩🟩🟩 100% |
-### 🎮 CARACTERÍSTICAS DE NEOCOURT MANAGER
+
+---
+
+Bienvenidos a **NeoCourt Games**, el estudio independiente de desarrollo de videojuegos creador de **NeoCourt Manager**. Si estás buscando información oficial sobre **NeoCourt Games**, actualizaciones de nuestros títulos, o querés descargar **NeoCourt Manager** gratis, este es nuestro sitio web oficial.
+
+<br>
+
+<div align="center">
+  <!-- BOTÓN DE ITCH.IO FINAL -->
+  <a href="https://itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/DESCARGAR_EN_ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Descargar en Itch.io">
+  </a>
+</div>
+
 
 * 📊 **Gestión Total:** Controlá las estadísticas de tu equipo y llevalos a la gloria.
 * ⚡ **Simulación Rápida:** Partidos dinámicos diseñados para jugar en cualquier lado.

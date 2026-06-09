@@ -107,3 +107,13 @@ Para consultas comerciales, propuestas de distribución, soporte técnico avanza
 
 ¿Encontraste un error o tenés una idea picante para el juego? 
 💬 Dejanos un comentario en nuestro **TikTok** o hablanos en los videos de **YouTube**. ¡Leemos todo!
+
+​🌐 SERVIDOR OFICIAL
+​NeoCourt Manager opera de manera online mediante una conexión directa a 1 servidor oficial, el cual es propiedad y está gestionado de forma exclusiva por nuestra empresa, NeoCourt Games.
+​📊 Procesamiento y Respaldo Real de Datos:
+​Almacenamiento Centralizado: Los registros de cada cuenta de mánager, el balance de divisas virtuales (monedas), las plantillas de jugadores activos y el estatus del NeoPass se consolidan en tiempo real dentro de nuestro sistema central.
+​Persistencia del Perfil: Al estar toda la información alojada en nuestro servidor dedicado, el progreso del usuario no depende del almacenamiento local del dispositivo. Desinstalar la aplicación o cambiar de terminal no genera pérdida de datos; el acceso se restablece de forma inmediata mediante las credenciales de autenticación del Mánager.
+​Soporte Operativo Continuo: El servidor mantiene una disponibilidad activa las 24 horas del día para validar de forma automática los ciclos del mercado de fichajes, la apertura de módulos Gacha y el procesamiento de la Liga Pro.
+
+​🛡️ Declaración de Control de NeoCourt Games
+​A través de este servidor oficial, nuestra firma garantiza la estabilidad y centralización de los datos de la comunidad. Monitoreamos el rendimiento del sistema para mitigar alteraciones externas, asegurando un entorno de gestión deportivo totalmente estable y competitivo para todos los usuarios.

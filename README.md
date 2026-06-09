@@ -109,6 +109,7 @@ Para consultas comerciales, propuestas de distribución, soporte técnico avanza
 💬 Dejanos un comentario en nuestro **TikTok** o hablanos en los videos de **YouTube**. ¡Leemos todo!
 
 ​🌐 SERVIDOR OFICIAL
+
 ​NeoCourt Manager opera de manera online mediante una conexión directa a 1 servidor oficial, el cual es propiedad y está gestionado de forma exclusiva por nuestra empresa, NeoCourt Games.
 ​📊 Procesamiento y Respaldo Real de Datos:
 ​Almacenamiento Centralizado: Los registros de cada cuenta de mánager, el balance de divisas virtuales (monedas), las plantillas de jugadores activos y el estatus del NeoPass se consolidan en tiempo real dentro de nuestro sistema central.
